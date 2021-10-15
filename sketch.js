@@ -236,5 +236,8 @@ function restartGame()
   hamster4.y=500;
 }
 
+}
+ 
+
 
  
